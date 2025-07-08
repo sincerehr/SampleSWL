@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tan;John;;;
+FN:John Tan
+ORG:Sincere Watch Limited
+TITLE:Customer Relations Associate
+TEL;TYPE=WORK,VOICE:+6512345678
+EMAIL:xxx@sincere.com.sg
+URL:https://www.sincerewatch.com
+ADR;TYPE=WORK:;;391B Orchard Road,#21-01;Singapore;;238888;Singapore
+END:VCARD
